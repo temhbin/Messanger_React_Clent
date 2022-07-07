@@ -7,7 +7,7 @@
     "embed-js": "^5.0.3",
     "hellosign-embedded": "^2.4.0",
     "jwt-decode": "^2.2.0",
-    "moment": "^2.21.0",
+    "moment": "^2.29.4",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-moment": "^0.7.0",
